@@ -1158,7 +1158,7 @@ bin(n).count('1')  # or Brian Kernighan's algorithm
 1. **Abdul Bari Algorithms** (YouTube)
 
    - Best for algorithm theory
-   - https://www.youtube.com/c/AbdulBari
+   - [https://www.youtube.com/c/AbdulBari](https://www.youtube.com/results?search_query=abdul+bari+algorithm)
 
 2. **MIT OpenCourseWare 6.006** (YouTube)
 
